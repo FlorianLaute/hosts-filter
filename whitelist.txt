@@ -1,0 +1,3 @@
+# Test Whitelist
+google.com
+example.com
